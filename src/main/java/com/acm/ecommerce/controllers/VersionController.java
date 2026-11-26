@@ -19,7 +19,7 @@ import java.util.Map;
 public class VersionController {
 
     // 👉 DEMO EN VIVO: cambia este texto, haz git push a main y observa el despliegue
-    public static final String MENSAJE = "Hola desde AWS ECS Fargate - v3.1.0";
+    public static final String MENSAJE = "Hola desde AWS ECS Fargate - v4";
 
     private final String version;
     private final String entorno;
